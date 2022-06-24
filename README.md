@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 Things Real Developers Do: My Bucket List:
 
+-Finish code academy: Java for Programmers:
+
 -Open the computer’s terminal: ✓
 
 -Use a text editor (bonus points if you have a specific reason for choosing it): ✓
